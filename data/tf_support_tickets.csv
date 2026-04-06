@@ -1,0 +1,943 @@
+ticket_id,user_id,plan,ticket_date,category,priority,status,resolution_days
+TKT00001,USR0001,Starter,2024-06-22,Performance,High,Resolved,3
+TKT00002,USR0001,Starter,2024-06-22,Onboarding,High,Resolved,8
+TKT00003,USR0002,Enterprise,2024-05-04,Onboarding,Medium,Resolved,6
+TKT00004,USR0002,Enterprise,2024-05-08,Bug Report,Medium,Resolved,10
+TKT00005,USR0002,Enterprise,2024-05-31,Bug Report,Medium,Open,
+TKT00006,USR0004,Growth,2024-06-15,Feature Request,High,Open,
+TKT00007,USR0004,Growth,2024-06-27,Bug Report,Medium,Resolved,10
+TKT00008,USR0006,Starter,2024-06-06,Feature Request,Low,Open,
+TKT00009,USR0006,Starter,2024-03-15,Bug Report,Medium,Resolved,7
+TKT00010,USR0007,Growth,2024-06-29,Performance,Low,Open,
+TKT00011,USR0008,Growth,2024-07-02,Feature Request,High,Resolved,3
+TKT00012,USR0008,Growth,2024-07-02,Billing,Medium,Resolved,7
+TKT00013,USR0008,Growth,2024-07-02,Feature Request,Medium,Resolved,3
+TKT00014,USR0009,Growth,2024-06-01,Feature Request,High,Resolved,2
+TKT00015,USR0009,Growth,2024-06-05,Onboarding,Medium,Resolved,6
+TKT00016,USR0010,Starter,2024-06-30,Performance,Low,Open,
+TKT00017,USR0012,Starter,2024-06-21,Bug Report,Medium,Resolved,5
+TKT00018,USR0013,Trial,2024-05-13,Feature Request,Low,Escalated,
+TKT00019,USR0014,Growth,2024-06-28,Billing,Low,Escalated,
+TKT00020,USR0016,Starter,2024-03-16,Bug Report,Low,Resolved,7
+TKT00021,USR0017,Enterprise,2024-04-13,Feature Request,High,Resolved,3
+TKT00022,USR0017,Enterprise,2024-05-23,Performance,Medium,Escalated,
+TKT00023,USR0017,Enterprise,2024-04-04,Billing,Low,Open,
+TKT00024,USR0017,Enterprise,2024-05-05,Billing,Low,Resolved,8
+TKT00025,USR0018,Trial,2024-05-15,Onboarding,Medium,Resolved,6
+TKT00026,USR0021,Trial,2024-06-21,Bug Report,Low,Resolved,10
+TKT00027,USR0023,Starter,2024-06-27,Onboarding,High,Resolved,4
+TKT00028,USR0023,Starter,2024-06-09,Bug Report,Low,Resolved,3
+TKT00029,USR0024,Growth,2024-06-27,Performance,Low,Resolved,4
+TKT00030,USR0027,Trial,2024-05-31,Feature Request,Low,Resolved,7
+TKT00031,USR0030,Starter,2024-05-25,Feature Request,High,Resolved,7
+TKT00032,USR0031,Starter,2024-06-26,Feature Request,Low,Resolved,9
+TKT00033,USR0032,Starter,2024-05-23,Onboarding,Low,Resolved,3
+TKT00034,USR0032,Starter,2024-05-14,Bug Report,Medium,Open,
+TKT00035,USR0033,Growth,2024-06-14,Feature Request,Low,Open,
+TKT00036,USR0035,Growth,2024-06-23,Performance,Medium,Resolved,9
+TKT00037,USR0035,Growth,2024-06-05,Feature Request,Low,Resolved,8
+TKT00038,USR0035,Growth,2024-06-20,Bug Report,Low,Escalated,
+TKT00039,USR0035,Growth,2024-06-29,Performance,Medium,Resolved,9
+TKT00040,USR0036,Trial,2024-06-25,Billing,Medium,Resolved,2
+TKT00041,USR0037,Enterprise,2024-06-20,Bug Report,Low,Resolved,9
+TKT00042,USR0037,Enterprise,2024-06-17,Billing,Low,Open,
+TKT00043,USR0037,Enterprise,2024-06-26,Onboarding,Low,Resolved,9
+TKT00044,USR0039,Growth,2024-06-22,Bug Report,Medium,Resolved,1
+TKT00045,USR0040,Starter,2024-06-28,Feature Request,Medium,Resolved,10
+TKT00046,USR0043,Starter,2024-05-24,Bug Report,Low,Resolved,2
+TKT00047,USR0045,Growth,2024-06-19,Onboarding,Low,Resolved,1
+TKT00048,USR0046,Starter,2024-06-28,Performance,Medium,Resolved,3
+TKT00049,USR0049,Starter,2024-03-30,Onboarding,Low,Open,
+TKT00050,USR0049,Starter,2024-05-26,Feature Request,Low,Resolved,5
+TKT00051,USR0050,Enterprise,2024-04-27,Billing,Medium,Resolved,10
+TKT00052,USR0050,Enterprise,2024-06-29,Onboarding,Low,Resolved,8
+TKT00053,USR0050,Enterprise,2024-03-16,Onboarding,High,Resolved,2
+TKT00054,USR0050,Enterprise,2024-05-27,Feature Request,Low,Resolved,9
+TKT00055,USR0051,Starter,2024-05-27,Bug Report,Low,Resolved,9
+TKT00056,USR0052,Growth,2024-06-02,Feature Request,High,Resolved,2
+TKT00057,USR0053,Growth,2024-04-12,Bug Report,Low,Escalated,
+TKT00058,USR0053,Growth,2024-06-14,Bug Report,Medium,Escalated,
+TKT00059,USR0053,Growth,2024-06-08,Bug Report,Medium,Escalated,
+TKT00060,USR0053,Growth,2024-06-02,Onboarding,Low,Resolved,4
+TKT00061,USR0054,Enterprise,2024-06-18,Feature Request,Low,Resolved,6
+TKT00062,USR0054,Enterprise,2024-06-30,Bug Report,Low,Open,
+TKT00063,USR0054,Enterprise,2024-06-20,Onboarding,High,Resolved,8
+TKT00064,USR0055,Starter,2024-05-29,Performance,Low,Resolved,9
+TKT00065,USR0056,Enterprise,2024-05-25,Bug Report,Medium,Open,
+TKT00066,USR0056,Enterprise,2024-05-04,Billing,Low,Resolved,1
+TKT00067,USR0056,Enterprise,2024-04-29,Bug Report,Medium,Resolved,6
+TKT00068,USR0059,Starter,2024-06-27,Feature Request,Medium,Resolved,4
+TKT00069,USR0059,Starter,2024-06-28,Bug Report,High,Resolved,6
+TKT00070,USR0062,Trial,2024-04-16,Feature Request,Low,Resolved,4
+TKT00071,USR0063,Growth,2024-06-25,Onboarding,Medium,Open,
+TKT00072,USR0063,Growth,2024-05-17,Feature Request,High,Escalated,
+TKT00073,USR0063,Growth,2024-06-04,Bug Report,Medium,Escalated,
+TKT00074,USR0064,Trial,2024-05-23,Bug Report,Medium,Resolved,7
+TKT00075,USR0065,Growth,2024-05-31,Bug Report,Medium,Open,
+TKT00076,USR0065,Growth,2024-04-22,Onboarding,Low,Resolved,3
+TKT00077,USR0066,Starter,2024-06-20,Billing,Medium,Open,
+TKT00078,USR0066,Starter,2024-06-21,Feature Request,Low,Resolved,4
+TKT00079,USR0068,Growth,2024-05-02,Onboarding,Low,Resolved,4
+TKT00080,USR0068,Growth,2024-02-23,Feature Request,Low,Open,
+TKT00081,USR0069,Growth,2024-02-17,Feature Request,High,Resolved,9
+TKT00082,USR0070,Growth,2024-05-19,Performance,High,Resolved,10
+TKT00083,USR0070,Growth,2024-04-28,Feature Request,Low,Resolved,7
+TKT00084,USR0070,Growth,2024-05-15,Billing,Medium,Resolved,9
+TKT00085,USR0072,Growth,2024-04-09,Feature Request,High,Resolved,4
+TKT00086,USR0073,Growth,2024-05-19,Feature Request,Low,Resolved,9
+TKT00087,USR0073,Growth,2024-03-28,Bug Report,Medium,Resolved,5
+TKT00088,USR0074,Enterprise,2024-03-01,Bug Report,Low,Resolved,1
+TKT00089,USR0074,Enterprise,2024-06-26,Feature Request,Medium,Resolved,9
+TKT00090,USR0074,Enterprise,2024-06-02,Billing,Medium,Open,
+TKT00091,USR0074,Enterprise,2024-04-15,Bug Report,Low,Resolved,4
+TKT00092,USR0074,Enterprise,2024-03-20,Onboarding,High,Open,
+TKT00093,USR0074,Enterprise,2024-05-07,Bug Report,Medium,Resolved,9
+TKT00094,USR0076,Enterprise,2024-05-25,Onboarding,Low,Resolved,6
+TKT00095,USR0077,Starter,2024-06-15,Performance,Medium,Resolved,4
+TKT00096,USR0077,Starter,2024-06-30,Billing,Low,Resolved,3
+TKT00097,USR0078,Growth,2024-05-03,Onboarding,Medium,Resolved,9
+TKT00098,USR0078,Growth,2024-02-14,Feature Request,Low,Resolved,1
+TKT00099,USR0078,Growth,2024-04-25,Bug Report,Low,Resolved,9
+TKT00100,USR0080,Trial,2024-02-20,Feature Request,Low,Open,
+TKT00101,USR0081,Starter,2024-05-25,Bug Report,High,Resolved,6
+TKT00102,USR0081,Starter,2024-05-29,Billing,Medium,Resolved,3
+TKT00103,USR0082,Trial,2024-06-08,Feature Request,Low,Open,
+TKT00104,USR0084,Enterprise,2024-06-04,Billing,Medium,Escalated,
+TKT00105,USR0084,Enterprise,2024-05-30,Feature Request,Low,Resolved,7
+TKT00106,USR0084,Enterprise,2024-05-30,Onboarding,High,Open,
+TKT00107,USR0084,Enterprise,2024-06-29,Onboarding,Low,Escalated,
+TKT00108,USR0084,Enterprise,2024-06-15,Performance,Medium,Resolved,10
+TKT00109,USR0085,Starter,2024-06-27,Onboarding,Low,Resolved,3
+TKT00110,USR0087,Growth,2024-02-23,Feature Request,Medium,Resolved,7
+TKT00111,USR0087,Growth,2024-06-15,Performance,Low,Escalated,
+TKT00112,USR0088,Growth,2024-05-10,Performance,Low,Open,
+TKT00113,USR0088,Growth,2024-04-29,Onboarding,Medium,Open,
+TKT00114,USR0089,Growth,2024-06-30,Bug Report,Low,Resolved,2
+TKT00115,USR0089,Growth,2024-06-30,Performance,Low,Open,
+TKT00116,USR0089,Growth,2024-06-30,Feature Request,Low,Resolved,6
+TKT00117,USR0090,Enterprise,2024-06-06,Bug Report,Low,Open,
+TKT00118,USR0091,Growth,2024-06-19,Onboarding,Medium,Open,
+TKT00119,USR0091,Growth,2024-05-22,Billing,Low,Resolved,2
+TKT00120,USR0091,Growth,2024-03-05,Billing,Medium,Escalated,
+TKT00121,USR0092,Trial,2024-06-07,Bug Report,Medium,Open,
+TKT00122,USR0093,Trial,2024-01-10,Onboarding,Low,Resolved,3
+TKT00123,USR0094,Growth,2024-03-12,Feature Request,High,Resolved,5
+TKT00124,USR0094,Growth,2024-05-24,Onboarding,Medium,Resolved,10
+TKT00125,USR0095,Starter,2024-07-01,Performance,Medium,Resolved,1
+TKT00126,USR0096,Starter,2024-06-17,Billing,Medium,Resolved,10
+TKT00127,USR0096,Starter,2024-06-05,Bug Report,High,Resolved,7
+TKT00128,USR0097,Starter,2024-06-28,Billing,Medium,Resolved,1
+TKT00129,USR0098,Enterprise,2024-06-20,Onboarding,Low,Resolved,10
+TKT00130,USR0098,Enterprise,2024-05-21,Performance,Low,Resolved,8
+TKT00131,USR0098,Enterprise,2024-06-13,Feature Request,Low,Resolved,8
+TKT00132,USR0098,Enterprise,2024-05-27,Bug Report,Medium,Resolved,3
+TKT00133,USR0098,Enterprise,2024-06-12,Feature Request,Medium,Resolved,3
+TKT00134,USR0098,Enterprise,2024-05-22,Performance,High,Resolved,10
+TKT00135,USR0099,Starter,2024-06-26,Feature Request,Low,Open,
+TKT00136,USR0099,Starter,2024-06-06,Performance,Medium,Resolved,5
+TKT00137,USR0101,Starter,2024-05-03,Onboarding,Medium,Resolved,10
+TKT00138,USR0101,Starter,2024-05-14,Onboarding,Low,Open,
+TKT00139,USR0102,Growth,2024-06-29,Feature Request,High,Resolved,8
+TKT00140,USR0102,Growth,2024-05-15,Performance,Low,Resolved,1
+TKT00141,USR0102,Growth,2024-05-20,Performance,High,Resolved,3
+TKT00142,USR0102,Growth,2024-06-04,Performance,Low,Open,
+TKT00143,USR0103,Enterprise,2024-04-16,Bug Report,Medium,Open,
+TKT00144,USR0104,Starter,2024-04-03,Onboarding,High,Escalated,
+TKT00145,USR0105,Trial,2024-04-05,Feature Request,Low,Resolved,2
+TKT00146,USR0106,Enterprise,2024-04-22,Performance,Low,Resolved,3
+TKT00147,USR0106,Enterprise,2024-03-10,Performance,Medium,Resolved,8
+TKT00148,USR0106,Enterprise,2024-04-29,Onboarding,Medium,Resolved,5
+TKT00149,USR0106,Enterprise,2024-05-17,Feature Request,Low,Open,
+TKT00150,USR0106,Enterprise,2024-05-07,Billing,Low,Resolved,8
+TKT00151,USR0106,Enterprise,2024-02-28,Performance,Medium,Resolved,10
+TKT00152,USR0107,Trial,2024-05-26,Billing,Medium,Resolved,10
+TKT00153,USR0108,Enterprise,2024-04-13,Bug Report,Medium,Escalated,
+TKT00154,USR0108,Enterprise,2024-04-20,Billing,Low,Resolved,1
+TKT00155,USR0108,Enterprise,2024-04-14,Feature Request,High,Open,
+TKT00156,USR0108,Enterprise,2024-05-10,Onboarding,Medium,Resolved,3
+TKT00157,USR0108,Enterprise,2024-06-04,Feature Request,Low,Resolved,7
+TKT00158,USR0108,Enterprise,2024-05-05,Billing,High,Escalated,
+TKT00159,USR0109,Growth,2024-05-12,Bug Report,Medium,Resolved,3
+TKT00160,USR0109,Growth,2024-05-27,Feature Request,Low,Resolved,7
+TKT00161,USR0109,Growth,2024-04-05,Performance,Medium,Resolved,9
+TKT00162,USR0110,Trial,2024-06-30,Feature Request,Low,Resolved,7
+TKT00163,USR0111,Starter,2024-04-28,Billing,Medium,Resolved,10
+TKT00164,USR0113,Enterprise,2024-06-25,Feature Request,Low,Resolved,9
+TKT00165,USR0113,Enterprise,2024-06-29,Onboarding,Low,Resolved,9
+TKT00166,USR0113,Enterprise,2024-06-19,Onboarding,Medium,Resolved,9
+TKT00167,USR0114,Enterprise,2024-05-06,Billing,Low,Resolved,5
+TKT00168,USR0114,Enterprise,2024-06-27,Billing,Medium,Resolved,1
+TKT00169,USR0114,Enterprise,2024-06-12,Onboarding,Low,Resolved,7
+TKT00170,USR0114,Enterprise,2024-05-12,Bug Report,Medium,Resolved,3
+TKT00171,USR0115,Enterprise,2024-06-28,Feature Request,Low,Open,
+TKT00172,USR0115,Enterprise,2024-03-15,Onboarding,Medium,Resolved,6
+TKT00173,USR0115,Enterprise,2024-03-21,Performance,High,Resolved,5
+TKT00174,USR0115,Enterprise,2024-04-27,Billing,Low,Open,
+TKT00175,USR0115,Enterprise,2024-06-06,Onboarding,Low,Resolved,8
+TKT00176,USR0115,Enterprise,2024-06-06,Onboarding,Medium,Open,
+TKT00177,USR0116,Starter,2024-06-22,Feature Request,Low,Open,
+TKT00178,USR0116,Starter,2024-06-21,Feature Request,Medium,Resolved,1
+TKT00179,USR0118,Starter,2024-04-23,Bug Report,Low,Escalated,
+TKT00180,USR0119,Growth,2024-06-22,Onboarding,Medium,Resolved,7
+TKT00181,USR0119,Growth,2024-04-08,Feature Request,Low,Resolved,3
+TKT00182,USR0119,Growth,2024-06-28,Billing,High,Resolved,2
+TKT00183,USR0120,Starter,2024-05-24,Billing,Low,Open,
+TKT00184,USR0121,Starter,2024-06-15,Performance,Low,Resolved,4
+TKT00185,USR0122,Starter,2024-05-24,Billing,Low,Resolved,10
+TKT00186,USR0124,Growth,2024-04-24,Feature Request,Medium,Open,
+TKT00187,USR0124,Growth,2024-05-28,Onboarding,Low,Resolved,2
+TKT00188,USR0125,Enterprise,2024-02-12,Performance,High,Resolved,7
+TKT00189,USR0127,Enterprise,2024-03-12,Billing,Low,Open,
+TKT00190,USR0127,Enterprise,2024-05-11,Bug Report,Low,Resolved,7
+TKT00191,USR0127,Enterprise,2024-06-21,Performance,Low,Resolved,5
+TKT00192,USR0129,Starter,2024-06-11,Onboarding,Low,Resolved,3
+TKT00193,USR0129,Starter,2024-02-25,Feature Request,Medium,Open,
+TKT00194,USR0131,Enterprise,2024-05-21,Onboarding,Medium,Open,
+TKT00195,USR0131,Enterprise,2024-05-01,Billing,Medium,Resolved,7
+TKT00196,USR0131,Enterprise,2024-06-23,Feature Request,Low,Resolved,7
+TKT00197,USR0131,Enterprise,2024-05-25,Bug Report,Low,Open,
+TKT00198,USR0131,Enterprise,2024-04-26,Onboarding,Low,Open,
+TKT00199,USR0131,Enterprise,2024-06-13,Performance,Low,Resolved,6
+TKT00200,USR0133,Starter,2024-03-29,Bug Report,High,Resolved,5
+TKT00201,USR0133,Starter,2024-04-25,Performance,Low,Resolved,4
+TKT00202,USR0134,Enterprise,2024-05-25,Feature Request,Low,Open,
+TKT00203,USR0134,Enterprise,2024-05-07,Bug Report,Low,Resolved,1
+TKT00204,USR0134,Enterprise,2024-06-14,Bug Report,Low,Resolved,2
+TKT00205,USR0134,Enterprise,2024-05-28,Billing,Low,Resolved,4
+TKT00206,USR0135,Starter,2024-04-11,Bug Report,Low,Resolved,9
+TKT00207,USR0136,Enterprise,2024-06-21,Billing,Low,Resolved,10
+TKT00208,USR0136,Enterprise,2024-06-05,Billing,Medium,Open,
+TKT00209,USR0137,Starter,2024-05-23,Feature Request,Low,Open,
+TKT00210,USR0137,Starter,2024-04-26,Feature Request,Medium,Resolved,7
+TKT00211,USR0138,Growth,2024-04-19,Onboarding,High,Resolved,9
+TKT00212,USR0138,Growth,2024-04-27,Performance,Medium,Resolved,8
+TKT00213,USR0138,Growth,2024-03-11,Performance,Low,Resolved,4
+TKT00214,USR0139,Enterprise,2024-05-29,Bug Report,Low,Resolved,4
+TKT00215,USR0139,Enterprise,2024-06-23,Bug Report,Low,Open,
+TKT00216,USR0139,Enterprise,2024-03-27,Bug Report,High,Resolved,8
+TKT00217,USR0140,Starter,2024-06-01,Billing,Medium,Resolved,9
+TKT00218,USR0141,Enterprise,2024-06-25,Performance,Low,Resolved,9
+TKT00219,USR0141,Enterprise,2024-06-26,Billing,Medium,Resolved,4
+TKT00220,USR0141,Enterprise,2024-06-28,Billing,Low,Escalated,
+TKT00221,USR0141,Enterprise,2024-06-27,Feature Request,Medium,Resolved,4
+TKT00222,USR0142,Trial,2024-06-22,Feature Request,Medium,Resolved,4
+TKT00223,USR0144,Starter,2024-05-25,Onboarding,Medium,Resolved,1
+TKT00224,USR0144,Starter,2024-03-08,Billing,Medium,Resolved,4
+TKT00225,USR0146,Enterprise,2024-06-28,Feature Request,Medium,Resolved,5
+TKT00226,USR0146,Enterprise,2024-06-21,Feature Request,Medium,Escalated,
+TKT00227,USR0146,Enterprise,2024-06-11,Billing,Low,Resolved,10
+TKT00228,USR0146,Enterprise,2024-06-26,Feature Request,Low,Resolved,1
+TKT00229,USR0147,Starter,2024-06-13,Performance,Medium,Resolved,3
+TKT00230,USR0147,Starter,2024-03-30,Feature Request,Low,Resolved,5
+TKT00231,USR0148,Starter,2024-05-25,Onboarding,Medium,Open,
+TKT00232,USR0149,Enterprise,2024-05-22,Feature Request,Low,Escalated,
+TKT00233,USR0149,Enterprise,2024-01-19,Onboarding,Medium,Resolved,7
+TKT00234,USR0149,Enterprise,2024-02-03,Onboarding,High,Resolved,6
+TKT00235,USR0149,Enterprise,2024-04-03,Onboarding,Low,Open,
+TKT00236,USR0149,Enterprise,2024-05-11,Billing,Low,Resolved,10
+TKT00237,USR0149,Enterprise,2024-04-18,Performance,Medium,Open,
+TKT00238,USR0150,Starter,2024-06-02,Feature Request,Medium,Resolved,5
+TKT00239,USR0151,Starter,2024-06-17,Bug Report,Low,Open,
+TKT00240,USR0152,Starter,2024-03-13,Performance,Low,Open,
+TKT00241,USR0156,Growth,2024-05-25,Bug Report,High,Resolved,2
+TKT00242,USR0157,Trial,2024-03-16,Billing,High,Resolved,10
+TKT00243,USR0158,Enterprise,2024-06-17,Feature Request,Medium,Resolved,2
+TKT00244,USR0158,Enterprise,2024-06-30,Onboarding,Low,Escalated,
+TKT00245,USR0159,Growth,2024-06-20,Performance,Medium,Resolved,5
+TKT00246,USR0159,Growth,2024-06-30,Bug Report,High,Open,
+TKT00247,USR0159,Growth,2024-06-03,Performance,Medium,Resolved,2
+TKT00248,USR0160,Enterprise,2024-06-28,Bug Report,High,Open,
+TKT00249,USR0160,Enterprise,2024-06-23,Bug Report,Medium,Resolved,7
+TKT00250,USR0161,Starter,2024-06-16,Billing,Medium,Open,
+TKT00251,USR0161,Starter,2024-06-18,Feature Request,Medium,Escalated,
+TKT00252,USR0162,Starter,2024-04-11,Feature Request,Low,Resolved,1
+TKT00253,USR0162,Starter,2024-04-17,Onboarding,Low,Resolved,7
+TKT00254,USR0163,Starter,2024-02-21,Bug Report,Low,Resolved,6
+TKT00255,USR0163,Starter,2024-05-10,Billing,Medium,Resolved,4
+TKT00256,USR0165,Starter,2024-04-07,Onboarding,Low,Resolved,6
+TKT00257,USR0166,Growth,2024-03-10,Billing,High,Open,
+TKT00258,USR0168,Enterprise,2024-06-08,Feature Request,High,Resolved,2
+TKT00259,USR0168,Enterprise,2024-06-27,Onboarding,High,Open,
+TKT00260,USR0169,Growth,2024-04-30,Billing,Low,Resolved,2
+TKT00261,USR0169,Growth,2024-06-19,Bug Report,Medium,Open,
+TKT00262,USR0169,Growth,2024-06-04,Onboarding,Low,Open,
+TKT00263,USR0170,Enterprise,2024-05-11,Feature Request,Low,Resolved,9
+TKT00264,USR0170,Enterprise,2024-05-03,Feature Request,Low,Resolved,3
+TKT00265,USR0170,Enterprise,2024-05-09,Billing,High,Resolved,7
+TKT00266,USR0170,Enterprise,2024-04-29,Performance,Medium,Resolved,10
+TKT00267,USR0171,Starter,2024-05-30,Performance,Low,Resolved,5
+TKT00268,USR0172,Trial,2024-03-30,Feature Request,High,Resolved,5
+TKT00269,USR0173,Growth,2024-06-29,Billing,Medium,Resolved,8
+TKT00270,USR0173,Growth,2024-06-23,Bug Report,Medium,Resolved,4
+TKT00271,USR0173,Growth,2024-06-26,Performance,Low,Open,
+TKT00272,USR0173,Growth,2024-06-30,Onboarding,Medium,Open,
+TKT00273,USR0174,Starter,2024-05-19,Onboarding,Low,Resolved,3
+TKT00274,USR0176,Starter,2024-06-30,Bug Report,Medium,Resolved,9
+TKT00275,USR0176,Starter,2024-06-17,Performance,Low,Resolved,4
+TKT00276,USR0177,Starter,2024-06-20,Feature Request,High,Resolved,10
+TKT00277,USR0178,Growth,2024-04-01,Onboarding,Low,Resolved,9
+TKT00278,USR0178,Growth,2024-05-13,Feature Request,Medium,Resolved,4
+TKT00279,USR0178,Growth,2024-06-01,Bug Report,Medium,Resolved,5
+TKT00280,USR0182,Enterprise,2024-04-22,Billing,Low,Resolved,8
+TKT00281,USR0182,Enterprise,2024-02-29,Bug Report,Low,Resolved,1
+TKT00282,USR0182,Enterprise,2024-03-16,Onboarding,Low,Resolved,7
+TKT00283,USR0183,Enterprise,2024-06-12,Bug Report,Low,Open,
+TKT00284,USR0183,Enterprise,2024-03-29,Billing,High,Resolved,2
+TKT00285,USR0183,Enterprise,2024-05-28,Performance,Low,Resolved,9
+TKT00286,USR0183,Enterprise,2024-06-21,Onboarding,Medium,Resolved,9
+TKT00287,USR0184,Trial,2024-05-22,Performance,Low,Open,
+TKT00288,USR0185,Growth,2024-02-13,Bug Report,Low,Resolved,7
+TKT00289,USR0185,Growth,2024-04-13,Bug Report,Medium,Resolved,2
+TKT00290,USR0185,Growth,2024-05-23,Bug Report,High,Resolved,2
+TKT00291,USR0186,Growth,2024-06-18,Performance,Medium,Resolved,10
+TKT00292,USR0187,Starter,2024-06-22,Feature Request,High,Open,
+TKT00293,USR0187,Starter,2024-06-29,Feature Request,Low,Resolved,6
+TKT00294,USR0189,Starter,2024-05-25,Bug Report,High,Resolved,7
+TKT00295,USR0189,Starter,2024-06-02,Onboarding,Low,Resolved,3
+TKT00296,USR0190,Starter,2024-05-22,Bug Report,Medium,Resolved,9
+TKT00297,USR0193,Trial,2024-06-06,Feature Request,High,Resolved,5
+TKT00298,USR0194,Starter,2024-04-10,Onboarding,Low,Resolved,6
+TKT00299,USR0195,Starter,2024-03-24,Billing,Medium,Resolved,10
+TKT00300,USR0195,Starter,2024-02-03,Feature Request,Low,Resolved,9
+TKT00301,USR0198,Enterprise,2024-05-30,Bug Report,Low,Resolved,1
+TKT00302,USR0198,Enterprise,2024-06-12,Onboarding,Low,Resolved,10
+TKT00303,USR0198,Enterprise,2024-05-29,Billing,Low,Escalated,
+TKT00304,USR0199,Growth,2024-06-07,Performance,High,Resolved,5
+TKT00305,USR0199,Growth,2024-06-19,Onboarding,Low,Resolved,1
+TKT00306,USR0199,Growth,2024-06-25,Onboarding,Low,Resolved,2
+TKT00307,USR0201,Starter,2024-06-02,Performance,Medium,Resolved,1
+TKT00308,USR0202,Growth,2024-05-05,Onboarding,Low,Resolved,10
+TKT00309,USR0203,Enterprise,2024-03-25,Feature Request,Low,Resolved,3
+TKT00310,USR0204,Starter,2024-04-04,Performance,High,Resolved,2
+TKT00311,USR0205,Enterprise,2024-06-16,Billing,Medium,Resolved,2
+TKT00312,USR0205,Enterprise,2024-06-17,Performance,Medium,Resolved,7
+TKT00313,USR0205,Enterprise,2024-06-22,Feature Request,Medium,Resolved,8
+TKT00314,USR0205,Enterprise,2024-06-18,Performance,Medium,Resolved,9
+TKT00315,USR0205,Enterprise,2024-06-28,Performance,Low,Resolved,1
+TKT00316,USR0205,Enterprise,2024-06-23,Feature Request,Medium,Resolved,6
+TKT00317,USR0206,Enterprise,2024-06-07,Billing,High,Resolved,6
+TKT00318,USR0206,Enterprise,2024-05-16,Onboarding,Low,Resolved,3
+TKT00319,USR0206,Enterprise,2024-06-08,Onboarding,Low,Resolved,1
+TKT00320,USR0206,Enterprise,2024-04-20,Onboarding,Low,Resolved,10
+TKT00321,USR0206,Enterprise,2024-04-19,Billing,Medium,Resolved,6
+TKT00322,USR0206,Enterprise,2024-04-23,Onboarding,Medium,Resolved,1
+TKT00323,USR0208,Growth,2024-06-28,Onboarding,Medium,Resolved,3
+TKT00324,USR0208,Growth,2024-04-30,Billing,Medium,Resolved,3
+TKT00325,USR0209,Growth,2024-05-16,Onboarding,Low,Resolved,9
+TKT00326,USR0209,Growth,2024-05-15,Onboarding,Medium,Resolved,5
+TKT00327,USR0209,Growth,2024-06-25,Billing,Low,Resolved,1
+TKT00328,USR0212,Trial,2024-02-14,Performance,Medium,Resolved,10
+TKT00329,USR0213,Trial,2024-05-30,Onboarding,Medium,Resolved,7
+TKT00330,USR0215,Growth,2024-05-22,Billing,Low,Open,
+TKT00331,USR0216,Growth,2024-05-27,Performance,Medium,Resolved,3
+TKT00332,USR0216,Growth,2024-06-24,Bug Report,Medium,Escalated,
+TKT00333,USR0216,Growth,2024-06-04,Onboarding,High,Resolved,3
+TKT00334,USR0217,Enterprise,2024-06-28,Billing,High,Resolved,6
+TKT00335,USR0217,Enterprise,2024-06-29,Feature Request,Low,Resolved,7
+TKT00336,USR0217,Enterprise,2024-06-30,Billing,High,Resolved,10
+TKT00337,USR0217,Enterprise,2024-06-29,Feature Request,Medium,Open,
+TKT00338,USR0217,Enterprise,2024-06-29,Feature Request,Low,Resolved,5
+TKT00339,USR0218,Enterprise,2024-06-01,Bug Report,Low,Resolved,3
+TKT00340,USR0218,Enterprise,2024-06-10,Billing,Low,Resolved,7
+TKT00341,USR0218,Enterprise,2024-03-09,Billing,Low,Resolved,3
+TKT00342,USR0218,Enterprise,2024-05-16,Performance,High,Resolved,1
+TKT00343,USR0219,Starter,2024-06-28,Performance,Medium,Resolved,4
+TKT00344,USR0219,Starter,2024-06-25,Performance,Medium,Resolved,9
+TKT00345,USR0220,Starter,2024-05-16,Onboarding,Low,Resolved,10
+TKT00346,USR0221,Starter,2024-01-19,Billing,High,Resolved,5
+TKT00347,USR0221,Starter,2024-04-22,Performance,Low,Resolved,1
+TKT00348,USR0222,Growth,2024-06-03,Onboarding,Low,Resolved,3
+TKT00349,USR0222,Growth,2024-06-05,Bug Report,Low,Resolved,9
+TKT00350,USR0222,Growth,2024-06-13,Performance,Low,Resolved,8
+TKT00351,USR0223,Starter,2024-05-06,Feature Request,Low,Resolved,9
+TKT00352,USR0224,Trial,2024-04-14,Billing,Medium,Escalated,
+TKT00353,USR0225,Starter,2024-03-28,Billing,Low,Resolved,10
+TKT00354,USR0225,Starter,2024-03-28,Billing,High,Resolved,8
+TKT00355,USR0226,Growth,2024-06-17,Bug Report,Low,Open,
+TKT00356,USR0232,Growth,2024-01-07,Onboarding,Medium,Resolved,10
+TKT00357,USR0232,Growth,2024-02-12,Billing,High,Resolved,4
+TKT00358,USR0233,Starter,2024-06-30,Performance,Medium,Resolved,4
+TKT00359,USR0233,Starter,2024-06-29,Performance,Medium,Open,
+TKT00360,USR0234,Starter,2024-03-15,Performance,Low,Resolved,8
+TKT00361,USR0236,Trial,2024-06-24,Billing,Low,Resolved,4
+TKT00362,USR0237,Growth,2024-06-30,Onboarding,Medium,Resolved,6
+TKT00363,USR0237,Growth,2024-05-07,Bug Report,Low,Resolved,3
+TKT00364,USR0237,Growth,2024-04-30,Performance,Low,Open,
+TKT00365,USR0239,Starter,2024-05-04,Bug Report,Medium,Open,
+TKT00366,USR0239,Starter,2024-03-05,Feature Request,Medium,Resolved,9
+TKT00367,USR0240,Enterprise,2024-06-18,Onboarding,Low,Resolved,1
+TKT00368,USR0240,Enterprise,2024-06-08,Billing,Low,Resolved,10
+TKT00369,USR0240,Enterprise,2024-06-25,Bug Report,Medium,Open,
+TKT00370,USR0240,Enterprise,2024-06-27,Onboarding,Low,Open,
+TKT00371,USR0240,Enterprise,2024-06-25,Billing,Low,Resolved,1
+TKT00372,USR0240,Enterprise,2024-06-29,Feature Request,Medium,Resolved,1
+TKT00373,USR0241,Enterprise,2024-05-28,Onboarding,Medium,Open,
+TKT00374,USR0242,Growth,2024-04-16,Performance,Low,Resolved,4
+TKT00375,USR0242,Growth,2024-05-19,Bug Report,High,Resolved,5
+TKT00376,USR0242,Growth,2024-04-07,Onboarding,Medium,Open,
+TKT00377,USR0242,Growth,2024-06-28,Performance,Medium,Open,
+TKT00378,USR0243,Starter,2024-05-31,Performance,Medium,Open,
+TKT00379,USR0243,Starter,2024-04-19,Billing,Medium,Open,
+TKT00380,USR0244,Starter,2024-06-25,Bug Report,Low,Open,
+TKT00381,USR0244,Starter,2024-03-03,Feature Request,Low,Resolved,7
+TKT00382,USR0246,Enterprise,2024-05-25,Bug Report,High,Open,
+TKT00383,USR0246,Enterprise,2024-05-11,Bug Report,Medium,Resolved,6
+TKT00384,USR0246,Enterprise,2024-05-31,Feature Request,High,Resolved,1
+TKT00385,USR0246,Enterprise,2024-05-30,Billing,Medium,Resolved,4
+TKT00386,USR0246,Enterprise,2024-06-04,Feature Request,Low,Resolved,4
+TKT00387,USR0247,Growth,2024-04-19,Feature Request,Low,Resolved,10
+TKT00388,USR0247,Growth,2024-05-11,Bug Report,Low,Resolved,5
+TKT00389,USR0247,Growth,2024-05-05,Performance,Low,Open,
+TKT00390,USR0249,Enterprise,2024-06-26,Bug Report,Low,Resolved,10
+TKT00391,USR0250,Starter,2024-04-11,Performance,Medium,Resolved,9
+TKT00392,USR0253,Enterprise,2024-05-25,Performance,Medium,Resolved,7
+TKT00393,USR0253,Enterprise,2024-06-25,Onboarding,Medium,Resolved,6
+TKT00394,USR0253,Enterprise,2024-06-01,Onboarding,Low,Resolved,9
+TKT00395,USR0253,Enterprise,2024-06-18,Performance,Low,Resolved,2
+TKT00396,USR0254,Trial,2024-04-26,Billing,Low,Resolved,10
+TKT00397,USR0255,Starter,2024-05-21,Performance,Low,Resolved,1
+TKT00398,USR0256,Enterprise,2024-06-14,Onboarding,Low,Resolved,3
+TKT00399,USR0256,Enterprise,2024-06-11,Feature Request,High,Resolved,1
+TKT00400,USR0256,Enterprise,2024-05-20,Onboarding,Low,Resolved,2
+TKT00401,USR0257,Starter,2024-05-20,Billing,Low,Open,
+TKT00402,USR0257,Starter,2024-04-18,Billing,High,Resolved,10
+TKT00403,USR0259,Growth,2024-03-15,Performance,Medium,Resolved,9
+TKT00404,USR0259,Growth,2024-04-24,Billing,Low,Resolved,3
+TKT00405,USR0259,Growth,2024-04-13,Billing,Medium,Resolved,10
+TKT00406,USR0259,Growth,2024-05-17,Feature Request,Low,Open,
+TKT00407,USR0260,Growth,2024-06-09,Onboarding,High,Resolved,9
+TKT00408,USR0260,Growth,2024-05-17,Bug Report,Low,Resolved,2
+TKT00409,USR0260,Growth,2024-06-26,Feature Request,Low,Escalated,
+TKT00410,USR0260,Growth,2024-06-09,Performance,Low,Resolved,8
+TKT00411,USR0262,Starter,2024-02-13,Feature Request,Medium,Escalated,
+TKT00412,USR0263,Enterprise,2024-07-01,Onboarding,High,Open,
+TKT00413,USR0263,Enterprise,2024-07-01,Bug Report,Low,Resolved,2
+TKT00414,USR0264,Starter,2024-04-26,Performance,Medium,Resolved,7
+TKT00415,USR0265,Growth,2024-06-29,Onboarding,Medium,Resolved,10
+TKT00416,USR0265,Growth,2024-04-08,Bug Report,High,Escalated,
+TKT00417,USR0266,Enterprise,2024-03-25,Feature Request,High,Resolved,3
+TKT00418,USR0266,Enterprise,2024-06-28,Bug Report,Low,Escalated,
+TKT00419,USR0266,Enterprise,2024-06-19,Billing,Medium,Resolved,2
+TKT00420,USR0268,Starter,2024-01-29,Bug Report,Low,Resolved,1
+TKT00421,USR0268,Starter,2024-02-27,Bug Report,Medium,Resolved,4
+TKT00422,USR0270,Trial,2024-06-10,Onboarding,Medium,Resolved,9
+TKT00423,USR0271,Enterprise,2024-06-09,Feature Request,Low,Resolved,8
+TKT00424,USR0272,Starter,2024-06-01,Onboarding,Low,Resolved,2
+TKT00425,USR0272,Starter,2024-03-28,Onboarding,Low,Resolved,3
+TKT00426,USR0273,Enterprise,2024-05-23,Onboarding,High,Resolved,5
+TKT00427,USR0273,Enterprise,2024-06-29,Onboarding,Low,Resolved,3
+TKT00428,USR0273,Enterprise,2024-04-13,Performance,High,Resolved,8
+TKT00429,USR0273,Enterprise,2024-06-01,Billing,High,Resolved,9
+TKT00430,USR0274,Growth,2024-04-29,Bug Report,Low,Resolved,1
+TKT00431,USR0274,Growth,2024-06-28,Performance,Low,Resolved,6
+TKT00432,USR0275,Enterprise,2024-06-23,Billing,High,Resolved,6
+TKT00433,USR0275,Enterprise,2024-06-30,Billing,Medium,Resolved,7
+TKT00434,USR0276,Enterprise,2024-06-06,Onboarding,Medium,Resolved,4
+TKT00435,USR0276,Enterprise,2024-04-14,Feature Request,Medium,Escalated,
+TKT00436,USR0276,Enterprise,2024-05-01,Bug Report,Medium,Open,
+TKT00437,USR0276,Enterprise,2024-06-19,Bug Report,High,Resolved,10
+TKT00438,USR0276,Enterprise,2024-04-16,Bug Report,Low,Resolved,3
+TKT00439,USR0277,Trial,2024-04-05,Feature Request,Medium,Resolved,5
+TKT00440,USR0278,Starter,2024-06-29,Feature Request,Medium,Open,
+TKT00441,USR0279,Starter,2024-06-30,Feature Request,Low,Resolved,7
+TKT00442,USR0280,Growth,2024-03-02,Bug Report,Low,Resolved,3
+TKT00443,USR0281,Enterprise,2024-03-11,Performance,Medium,Resolved,2
+TKT00444,USR0281,Enterprise,2024-04-19,Onboarding,Medium,Escalated,
+TKT00445,USR0281,Enterprise,2024-03-01,Bug Report,Low,Resolved,9
+TKT00446,USR0283,Starter,2024-06-17,Billing,Low,Resolved,2
+TKT00447,USR0283,Starter,2024-06-16,Feature Request,High,Resolved,10
+TKT00448,USR0285,Growth,2024-06-25,Onboarding,Low,Resolved,5
+TKT00449,USR0285,Growth,2024-06-27,Billing,Low,Resolved,10
+TKT00450,USR0285,Growth,2024-06-20,Feature Request,Medium,Resolved,10
+TKT00451,USR0286,Growth,2024-06-10,Performance,Medium,Resolved,3
+TKT00452,USR0286,Growth,2024-06-10,Feature Request,Low,Resolved,5
+TKT00453,USR0286,Growth,2024-06-03,Onboarding,Low,Resolved,2
+TKT00454,USR0286,Growth,2024-06-08,Billing,Low,Resolved,6
+TKT00455,USR0287,Starter,2024-06-29,Onboarding,High,Open,
+TKT00456,USR0287,Starter,2024-06-29,Bug Report,Medium,Resolved,9
+TKT00457,USR0288,Growth,2024-06-27,Bug Report,Low,Resolved,6
+TKT00458,USR0288,Growth,2024-06-27,Feature Request,Low,Resolved,4
+TKT00459,USR0288,Growth,2024-06-28,Feature Request,Low,Resolved,7
+TKT00460,USR0288,Growth,2024-06-28,Performance,High,Resolved,9
+TKT00461,USR0289,Growth,2024-05-23,Onboarding,High,Resolved,2
+TKT00462,USR0292,Starter,2024-05-31,Bug Report,High,Resolved,1
+TKT00463,USR0292,Starter,2024-06-14,Feature Request,High,Resolved,2
+TKT00464,USR0293,Starter,2024-06-25,Billing,Low,Resolved,9
+TKT00465,USR0295,Starter,2024-05-20,Performance,Low,Escalated,
+TKT00466,USR0296,Starter,2024-05-22,Feature Request,Low,Resolved,8
+TKT00467,USR0299,Growth,2024-04-07,Onboarding,Low,Open,
+TKT00468,USR0300,Trial,2024-03-11,Feature Request,Medium,Resolved,1
+TKT00469,USR0301,Starter,2024-06-29,Billing,Low,Resolved,5
+TKT00470,USR0303,Starter,2024-03-21,Feature Request,Low,Open,
+TKT00471,USR0305,Trial,2024-06-21,Feature Request,Low,Resolved,4
+TKT00472,USR0307,Growth,2024-04-25,Bug Report,Medium,Resolved,6
+TKT00473,USR0307,Growth,2024-06-11,Bug Report,Medium,Resolved,9
+TKT00474,USR0307,Growth,2024-06-15,Bug Report,Low,Escalated,
+TKT00475,USR0307,Growth,2024-06-15,Bug Report,High,Resolved,7
+TKT00476,USR0308,Trial,2024-06-07,Bug Report,Low,Open,
+TKT00477,USR0309,Starter,2024-05-05,Billing,Low,Resolved,8
+TKT00478,USR0310,Starter,2024-06-30,Performance,Medium,Resolved,2
+TKT00479,USR0312,Enterprise,2024-05-04,Bug Report,High,Resolved,3
+TKT00480,USR0312,Enterprise,2024-04-05,Performance,Medium,Escalated,
+TKT00481,USR0312,Enterprise,2024-06-25,Billing,High,Resolved,8
+TKT00482,USR0313,Starter,2024-03-27,Billing,Low,Resolved,5
+TKT00483,USR0315,Growth,2024-06-26,Bug Report,High,Resolved,7
+TKT00484,USR0315,Growth,2024-05-17,Billing,High,Open,
+TKT00485,USR0318,Starter,2024-04-18,Onboarding,Medium,Resolved,2
+TKT00486,USR0318,Starter,2024-06-28,Billing,Medium,Resolved,3
+TKT00487,USR0319,Enterprise,2024-06-07,Billing,Low,Resolved,2
+TKT00488,USR0319,Enterprise,2024-03-07,Onboarding,Medium,Open,
+TKT00489,USR0319,Enterprise,2024-06-23,Bug Report,Medium,Resolved,2
+TKT00490,USR0319,Enterprise,2024-02-21,Bug Report,High,Resolved,3
+TKT00491,USR0319,Enterprise,2024-06-27,Performance,Medium,Escalated,
+TKT00492,USR0320,Enterprise,2024-06-05,Billing,Medium,Resolved,5
+TKT00493,USR0320,Enterprise,2024-05-04,Performance,Low,Resolved,4
+TKT00494,USR0320,Enterprise,2024-06-07,Onboarding,High,Open,
+TKT00495,USR0320,Enterprise,2024-05-25,Onboarding,Medium,Resolved,6
+TKT00496,USR0320,Enterprise,2024-06-27,Onboarding,Low,Open,
+TKT00497,USR0320,Enterprise,2024-06-18,Performance,Medium,Resolved,1
+TKT00498,USR0321,Growth,2024-06-19,Onboarding,Low,Escalated,
+TKT00499,USR0321,Growth,2024-06-26,Billing,Low,Open,
+TKT00500,USR0321,Growth,2024-06-15,Onboarding,Low,Resolved,8
+TKT00501,USR0321,Growth,2024-06-21,Billing,Low,Resolved,6
+TKT00502,USR0322,Starter,2024-06-18,Performance,Low,Resolved,9
+TKT00503,USR0322,Starter,2024-03-17,Feature Request,Medium,Resolved,3
+TKT00504,USR0323,Starter,2024-06-19,Bug Report,High,Resolved,6
+TKT00505,USR0323,Starter,2024-05-16,Performance,Low,Escalated,
+TKT00506,USR0325,Enterprise,2024-03-16,Bug Report,Medium,Resolved,1
+TKT00507,USR0325,Enterprise,2024-06-06,Feature Request,Low,Resolved,2
+TKT00508,USR0325,Enterprise,2024-05-01,Bug Report,Low,Resolved,1
+TKT00509,USR0325,Enterprise,2024-06-01,Onboarding,High,Open,
+TKT00510,USR0328,Growth,2024-05-19,Feature Request,Low,Resolved,3
+TKT00511,USR0328,Growth,2024-06-11,Performance,Low,Resolved,7
+TKT00512,USR0328,Growth,2024-06-27,Feature Request,Medium,Resolved,2
+TKT00513,USR0329,Enterprise,2024-06-21,Feature Request,Medium,Resolved,9
+TKT00514,USR0329,Enterprise,2024-06-19,Performance,Low,Resolved,2
+TKT00515,USR0329,Enterprise,2024-06-29,Performance,Medium,Resolved,6
+TKT00516,USR0329,Enterprise,2024-06-18,Feature Request,High,Open,
+TKT00517,USR0329,Enterprise,2024-06-28,Bug Report,Medium,Resolved,8
+TKT00518,USR0329,Enterprise,2024-06-18,Billing,Low,Resolved,10
+TKT00519,USR0330,Growth,2024-05-11,Onboarding,Low,Open,
+TKT00520,USR0330,Growth,2024-06-11,Feature Request,High,Resolved,6
+TKT00521,USR0331,Starter,2024-05-06,Billing,Low,Resolved,2
+TKT00522,USR0332,Enterprise,2024-04-09,Billing,Low,Open,
+TKT00523,USR0332,Enterprise,2024-05-19,Performance,Medium,Resolved,3
+TKT00524,USR0332,Enterprise,2024-05-28,Onboarding,Medium,Open,
+TKT00525,USR0332,Enterprise,2024-03-31,Billing,Medium,Open,
+TKT00526,USR0332,Enterprise,2024-03-26,Performance,Low,Open,
+TKT00527,USR0334,Enterprise,2024-03-24,Bug Report,High,Resolved,4
+TKT00528,USR0334,Enterprise,2024-06-22,Bug Report,Low,Open,
+TKT00529,USR0335,Growth,2024-05-17,Billing,Low,Open,
+TKT00530,USR0335,Growth,2024-06-20,Feature Request,Low,Resolved,4
+TKT00531,USR0335,Growth,2024-03-30,Onboarding,Low,Resolved,4
+TKT00532,USR0335,Growth,2024-06-30,Onboarding,Low,Escalated,
+TKT00533,USR0336,Starter,2024-06-13,Bug Report,Medium,Resolved,7
+TKT00534,USR0339,Enterprise,2024-05-30,Bug Report,Low,Resolved,1
+TKT00535,USR0339,Enterprise,2024-06-05,Billing,High,Resolved,8
+TKT00536,USR0345,Growth,2024-03-23,Bug Report,Low,Open,
+TKT00537,USR0345,Growth,2024-03-15,Bug Report,Medium,Resolved,6
+TKT00538,USR0345,Growth,2024-03-31,Performance,High,Resolved,2
+TKT00539,USR0346,Starter,2024-06-29,Performance,Low,Open,
+TKT00540,USR0346,Starter,2024-06-30,Onboarding,Medium,Resolved,1
+TKT00541,USR0347,Growth,2024-05-19,Performance,Medium,Resolved,8
+TKT00542,USR0347,Growth,2024-05-20,Bug Report,Low,Resolved,9
+TKT00543,USR0347,Growth,2024-05-19,Performance,Medium,Escalated,
+TKT00544,USR0348,Starter,2024-05-23,Billing,Low,Resolved,8
+TKT00545,USR0348,Starter,2024-03-16,Bug Report,Low,Open,
+TKT00546,USR0351,Starter,2024-06-20,Feature Request,Low,Resolved,5
+TKT00547,USR0351,Starter,2024-03-23,Onboarding,Low,Resolved,7
+TKT00548,USR0352,Enterprise,2024-06-20,Feature Request,Low,Resolved,10
+TKT00549,USR0352,Enterprise,2024-05-02,Feature Request,Medium,Open,
+TKT00550,USR0352,Enterprise,2024-04-13,Performance,Low,Open,
+TKT00551,USR0352,Enterprise,2024-06-09,Bug Report,Low,Open,
+TKT00552,USR0352,Enterprise,2024-05-01,Billing,High,Escalated,
+TKT00553,USR0353,Starter,2024-03-06,Feature Request,Low,Resolved,6
+TKT00554,USR0354,Starter,2024-03-09,Billing,Low,Resolved,2
+TKT00555,USR0354,Starter,2024-05-15,Performance,Low,Open,
+TKT00556,USR0355,Starter,2024-02-15,Feature Request,Medium,Resolved,5
+TKT00557,USR0355,Starter,2024-05-25,Feature Request,Low,Resolved,7
+TKT00558,USR0357,Starter,2024-02-28,Feature Request,Medium,Resolved,5
+TKT00559,USR0357,Starter,2024-06-27,Feature Request,Low,Escalated,
+TKT00560,USR0359,Starter,2024-06-24,Bug Report,Low,Resolved,4
+TKT00561,USR0359,Starter,2024-04-17,Onboarding,Low,Resolved,5
+TKT00562,USR0360,Starter,2024-06-28,Onboarding,High,Open,
+TKT00563,USR0361,Starter,2024-06-27,Onboarding,Low,Open,
+TKT00564,USR0361,Starter,2024-06-13,Feature Request,Low,Open,
+TKT00565,USR0363,Starter,2024-02-18,Onboarding,High,Resolved,2
+TKT00566,USR0364,Growth,2024-06-06,Bug Report,Low,Open,
+TKT00567,USR0365,Growth,2024-03-09,Feature Request,Medium,Resolved,7
+TKT00568,USR0366,Starter,2024-05-08,Bug Report,Medium,Resolved,7
+TKT00569,USR0366,Starter,2024-05-10,Bug Report,Medium,Escalated,
+TKT00570,USR0367,Trial,2024-05-25,Feature Request,Low,Resolved,3
+TKT00571,USR0369,Growth,2024-04-10,Feature Request,Medium,Resolved,10
+TKT00572,USR0370,Growth,2024-05-02,Feature Request,Medium,Resolved,2
+TKT00573,USR0370,Growth,2024-06-21,Billing,Low,Resolved,10
+TKT00574,USR0370,Growth,2024-06-15,Onboarding,Low,Open,
+TKT00575,USR0370,Growth,2024-05-04,Bug Report,Low,Resolved,6
+TKT00576,USR0371,Growth,2024-06-12,Onboarding,High,Resolved,6
+TKT00577,USR0371,Growth,2024-06-20,Feature Request,Low,Resolved,6
+TKT00578,USR0371,Growth,2024-05-30,Onboarding,Low,Resolved,9
+TKT00579,USR0372,Starter,2024-06-26,Billing,Low,Resolved,1
+TKT00580,USR0373,Growth,2024-06-17,Feature Request,Low,Resolved,1
+TKT00581,USR0373,Growth,2024-06-21,Feature Request,Medium,Open,
+TKT00582,USR0373,Growth,2024-06-12,Performance,Low,Resolved,10
+TKT00583,USR0374,Enterprise,2024-06-17,Onboarding,Medium,Resolved,6
+TKT00584,USR0374,Enterprise,2024-06-28,Bug Report,Medium,Resolved,2
+TKT00585,USR0374,Enterprise,2024-06-15,Billing,High,Resolved,2
+TKT00586,USR0374,Enterprise,2024-06-18,Billing,Medium,Resolved,6
+TKT00587,USR0374,Enterprise,2024-06-21,Billing,Low,Open,
+TKT00588,USR0376,Starter,2024-06-22,Performance,Low,Open,
+TKT00589,USR0376,Starter,2024-06-06,Billing,Medium,Resolved,1
+TKT00590,USR0377,Starter,2024-04-08,Onboarding,High,Resolved,4
+TKT00591,USR0378,Growth,2024-05-08,Bug Report,Low,Resolved,6
+TKT00592,USR0379,Starter,2024-04-09,Billing,Medium,Resolved,5
+TKT00593,USR0379,Starter,2024-06-29,Performance,Low,Resolved,9
+TKT00594,USR0380,Trial,2024-06-19,Billing,Medium,Open,
+TKT00595,USR0381,Starter,2024-06-11,Onboarding,Low,Resolved,9
+TKT00596,USR0382,Starter,2024-06-25,Billing,Low,Resolved,8
+TKT00597,USR0386,Growth,2024-06-22,Feature Request,Low,Resolved,5
+TKT00598,USR0386,Growth,2024-06-14,Bug Report,Medium,Resolved,10
+TKT00599,USR0386,Growth,2024-06-07,Performance,High,Open,
+TKT00600,USR0387,Starter,2024-05-31,Bug Report,Medium,Resolved,6
+TKT00601,USR0388,Enterprise,2024-06-01,Performance,Low,Resolved,3
+TKT00602,USR0388,Enterprise,2024-06-08,Billing,Medium,Open,
+TKT00603,USR0388,Enterprise,2024-06-04,Onboarding,Low,Resolved,6
+TKT00604,USR0388,Enterprise,2024-06-23,Performance,High,Open,
+TKT00605,USR0388,Enterprise,2024-06-19,Feature Request,Low,Resolved,9
+TKT00606,USR0389,Growth,2024-05-17,Performance,Low,Resolved,2
+TKT00607,USR0389,Growth,2024-01-24,Feature Request,Low,Resolved,6
+TKT00608,USR0390,Starter,2024-06-22,Performance,Low,Resolved,5
+TKT00609,USR0390,Starter,2024-05-17,Billing,Low,Open,
+TKT00610,USR0391,Growth,2024-06-24,Feature Request,Medium,Resolved,5
+TKT00611,USR0393,Enterprise,2024-06-21,Bug Report,Low,Escalated,
+TKT00612,USR0393,Enterprise,2024-06-05,Feature Request,Medium,Resolved,1
+TKT00613,USR0393,Enterprise,2024-05-31,Billing,Low,Resolved,1
+TKT00614,USR0394,Enterprise,2024-05-26,Billing,Low,Resolved,9
+TKT00615,USR0394,Enterprise,2024-05-11,Billing,Medium,Resolved,6
+TKT00616,USR0394,Enterprise,2024-05-16,Feature Request,Low,Resolved,9
+TKT00617,USR0394,Enterprise,2024-06-01,Feature Request,Medium,Open,
+TKT00618,USR0396,Growth,2024-04-20,Billing,Medium,Resolved,6
+TKT00619,USR0396,Growth,2024-05-01,Billing,Low,Escalated,
+TKT00620,USR0396,Growth,2024-04-14,Bug Report,Low,Open,
+TKT00621,USR0397,Trial,2024-04-27,Bug Report,Medium,Resolved,5
+TKT00622,USR0400,Enterprise,2024-06-16,Onboarding,Low,Escalated,
+TKT00623,USR0400,Enterprise,2024-06-28,Billing,Low,Resolved,10
+TKT00624,USR0400,Enterprise,2024-06-26,Performance,Low,Resolved,10
+TKT00625,USR0400,Enterprise,2024-06-24,Performance,Medium,Open,
+TKT00626,USR0400,Enterprise,2024-06-09,Onboarding,Medium,Open,
+TKT00627,USR0400,Enterprise,2024-06-17,Onboarding,Low,Resolved,7
+TKT00628,USR0401,Enterprise,2024-06-21,Bug Report,Medium,Open,
+TKT00629,USR0401,Enterprise,2024-05-26,Performance,Low,Resolved,4
+TKT00630,USR0402,Enterprise,2024-06-09,Onboarding,Low,Resolved,9
+TKT00631,USR0402,Enterprise,2024-05-27,Bug Report,Low,Open,
+TKT00632,USR0404,Enterprise,2024-06-20,Performance,Low,Resolved,8
+TKT00633,USR0404,Enterprise,2024-03-18,Billing,Low,Resolved,2
+TKT00634,USR0405,Growth,2024-06-05,Performance,Medium,Resolved,4
+TKT00635,USR0407,Growth,2024-06-18,Bug Report,Medium,Resolved,4
+TKT00636,USR0407,Growth,2024-06-26,Performance,Medium,Resolved,2
+TKT00637,USR0407,Growth,2024-05-16,Onboarding,Medium,Resolved,8
+TKT00638,USR0407,Growth,2024-06-07,Bug Report,Low,Resolved,5
+TKT00639,USR0408,Starter,2024-05-02,Bug Report,Medium,Resolved,5
+TKT00640,USR0408,Starter,2024-04-22,Onboarding,Low,Resolved,3
+TKT00641,USR0409,Starter,2024-06-15,Billing,Medium,Open,
+TKT00642,USR0409,Starter,2024-05-17,Feature Request,High,Resolved,3
+TKT00643,USR0411,Enterprise,2024-04-03,Bug Report,Low,Resolved,4
+TKT00644,USR0413,Trial,2024-06-27,Feature Request,Low,Resolved,5
+TKT00645,USR0414,Growth,2024-05-01,Billing,High,Resolved,5
+TKT00646,USR0414,Growth,2024-04-26,Bug Report,Low,Resolved,7
+TKT00647,USR0414,Growth,2024-02-29,Onboarding,Low,Resolved,6
+TKT00648,USR0414,Growth,2024-04-20,Feature Request,Low,Resolved,7
+TKT00649,USR0416,Starter,2024-06-24,Billing,Low,Resolved,4
+TKT00650,USR0417,Starter,2024-06-10,Feature Request,Low,Escalated,
+TKT00651,USR0418,Enterprise,2024-07-02,Bug Report,Low,Resolved,6
+TKT00652,USR0418,Enterprise,2024-07-02,Feature Request,Medium,Resolved,2
+TKT00653,USR0418,Enterprise,2024-07-01,Feature Request,Low,Resolved,1
+TKT00654,USR0418,Enterprise,2024-07-01,Onboarding,High,Resolved,6
+TKT00655,USR0418,Enterprise,2024-07-02,Onboarding,Low,Resolved,9
+TKT00656,USR0418,Enterprise,2024-07-01,Performance,Medium,Resolved,5
+TKT00657,USR0419,Growth,2024-02-08,Onboarding,Medium,Resolved,3
+TKT00658,USR0420,Growth,2024-03-22,Feature Request,High,Resolved,4
+TKT00659,USR0422,Starter,2024-06-17,Billing,Medium,Resolved,6
+TKT00660,USR0422,Starter,2024-06-29,Billing,Medium,Resolved,9
+TKT00661,USR0423,Growth,2024-04-24,Feature Request,Medium,Open,
+TKT00662,USR0423,Growth,2024-04-11,Onboarding,Medium,Resolved,8
+TKT00663,USR0424,Starter,2024-05-01,Feature Request,Low,Resolved,1
+TKT00664,USR0424,Starter,2024-04-30,Feature Request,Medium,Resolved,4
+TKT00665,USR0425,Growth,2024-06-01,Bug Report,Medium,Resolved,1
+TKT00666,USR0425,Growth,2024-06-18,Performance,Medium,Resolved,8
+TKT00667,USR0425,Growth,2024-05-16,Bug Report,Medium,Escalated,
+TKT00668,USR0425,Growth,2024-06-05,Billing,Medium,Open,
+TKT00669,USR0426,Starter,2024-06-15,Bug Report,Medium,Resolved,7
+TKT00670,USR0426,Starter,2024-06-28,Onboarding,Medium,Open,
+TKT00671,USR0427,Growth,2024-06-23,Performance,High,Open,
+TKT00672,USR0427,Growth,2024-06-27,Feature Request,Medium,Open,
+TKT00673,USR0428,Enterprise,2024-06-24,Performance,Medium,Resolved,4
+TKT00674,USR0428,Enterprise,2024-06-21,Feature Request,Low,Resolved,9
+TKT00675,USR0429,Enterprise,2024-06-29,Billing,Low,Resolved,9
+TKT00676,USR0430,Growth,2024-06-07,Bug Report,High,Open,
+TKT00677,USR0432,Growth,2024-06-29,Feature Request,Medium,Resolved,2
+TKT00678,USR0432,Growth,2024-06-20,Performance,Medium,Resolved,3
+TKT00679,USR0432,Growth,2024-06-20,Performance,Low,Open,
+TKT00680,USR0432,Growth,2024-06-18,Billing,Low,Open,
+TKT00681,USR0434,Enterprise,2024-04-24,Performance,Medium,Resolved,10
+TKT00682,USR0434,Enterprise,2024-02-18,Performance,Medium,Resolved,3
+TKT00683,USR0434,Enterprise,2024-05-01,Onboarding,Medium,Escalated,
+TKT00684,USR0434,Enterprise,2024-05-08,Feature Request,Low,Resolved,8
+TKT00685,USR0434,Enterprise,2024-01-31,Feature Request,High,Resolved,2
+TKT00686,USR0434,Enterprise,2024-05-11,Billing,High,Resolved,8
+TKT00687,USR0435,Starter,2024-05-13,Billing,Low,Open,
+TKT00688,USR0435,Starter,2024-06-03,Billing,Medium,Resolved,6
+TKT00689,USR0438,Enterprise,2024-05-23,Bug Report,Low,Open,
+TKT00690,USR0439,Trial,2024-06-10,Onboarding,Low,Resolved,8
+TKT00691,USR0440,Growth,2024-04-16,Onboarding,Low,Resolved,2
+TKT00692,USR0441,Growth,2024-05-20,Performance,Medium,Resolved,9
+TKT00693,USR0441,Growth,2024-02-19,Billing,Medium,Resolved,3
+TKT00694,USR0441,Growth,2024-04-29,Feature Request,Medium,Open,
+TKT00695,USR0441,Growth,2024-02-25,Feature Request,Medium,Open,
+TKT00696,USR0442,Enterprise,2024-05-08,Bug Report,Low,Open,
+TKT00697,USR0442,Enterprise,2024-05-01,Billing,Medium,Resolved,9
+TKT00698,USR0442,Enterprise,2024-06-14,Performance,Low,Resolved,3
+TKT00699,USR0444,Growth,2024-06-12,Performance,High,Resolved,8
+TKT00700,USR0444,Growth,2024-06-07,Bug Report,Low,Resolved,6
+TKT00701,USR0445,Enterprise,2024-05-15,Bug Report,Low,Resolved,10
+TKT00702,USR0445,Enterprise,2024-02-06,Onboarding,High,Open,
+TKT00703,USR0446,Enterprise,2024-02-07,Bug Report,Low,Resolved,2
+TKT00704,USR0446,Enterprise,2024-03-01,Feature Request,Low,Resolved,4
+TKT00705,USR0446,Enterprise,2024-05-29,Performance,Low,Resolved,8
+TKT00706,USR0446,Enterprise,2024-06-17,Bug Report,Low,Resolved,7
+TKT00707,USR0446,Enterprise,2024-04-09,Billing,Medium,Escalated,
+TKT00708,USR0447,Growth,2024-04-16,Feature Request,Low,Open,
+TKT00709,USR0450,Starter,2024-05-03,Onboarding,Medium,Escalated,
+TKT00710,USR0453,Starter,2024-06-21,Onboarding,Low,Resolved,4
+TKT00711,USR0453,Starter,2024-06-23,Feature Request,Low,Resolved,2
+TKT00712,USR0455,Growth,2024-06-04,Onboarding,Low,Resolved,5
+TKT00713,USR0456,Starter,2024-04-17,Performance,Medium,Resolved,1
+TKT00714,USR0456,Starter,2024-06-12,Bug Report,High,Resolved,10
+TKT00715,USR0457,Growth,2024-03-29,Feature Request,Low,Resolved,6
+TKT00716,USR0457,Growth,2024-04-24,Onboarding,High,Open,
+TKT00717,USR0457,Growth,2024-04-06,Billing,Medium,Resolved,1
+TKT00718,USR0457,Growth,2024-05-21,Onboarding,Medium,Open,
+TKT00719,USR0459,Trial,2024-05-31,Onboarding,Low,Resolved,4
+TKT00720,USR0460,Growth,2024-06-09,Bug Report,Low,Resolved,7
+TKT00721,USR0461,Growth,2024-06-09,Billing,Low,Resolved,10
+TKT00722,USR0461,Growth,2024-05-10,Bug Report,High,Resolved,5
+TKT00723,USR0461,Growth,2024-06-16,Feature Request,Medium,Resolved,5
+TKT00724,USR0462,Growth,2024-01-10,Bug Report,Medium,Resolved,10
+TKT00725,USR0463,Trial,2024-06-25,Onboarding,Medium,Open,
+TKT00726,USR0464,Starter,2024-05-10,Bug Report,High,Resolved,3
+TKT00727,USR0465,Growth,2024-07-01,Bug Report,Low,Resolved,1
+TKT00728,USR0465,Growth,2024-07-01,Billing,Low,Resolved,4
+TKT00729,USR0465,Growth,2024-07-01,Bug Report,Low,Resolved,5
+TKT00730,USR0465,Growth,2024-07-02,Performance,Low,Resolved,5
+TKT00731,USR0466,Starter,2024-06-06,Bug Report,Low,Escalated,
+TKT00732,USR0466,Starter,2024-02-26,Performance,Medium,Resolved,3
+TKT00733,USR0467,Growth,2024-06-19,Performance,Low,Resolved,4
+TKT00734,USR0468,Starter,2024-06-12,Bug Report,Medium,Resolved,3
+TKT00735,USR0468,Starter,2024-04-29,Billing,Medium,Resolved,8
+TKT00736,USR0469,Starter,2024-03-22,Performance,Low,Open,
+TKT00737,USR0469,Starter,2024-04-26,Billing,Low,Resolved,6
+TKT00738,USR0470,Growth,2024-05-23,Onboarding,Medium,Resolved,4
+TKT00739,USR0470,Growth,2024-06-08,Performance,Medium,Resolved,1
+TKT00740,USR0471,Enterprise,2024-06-23,Billing,Low,Open,
+TKT00741,USR0471,Enterprise,2024-05-15,Onboarding,Low,Resolved,8
+TKT00742,USR0471,Enterprise,2024-05-01,Billing,Low,Resolved,4
+TKT00743,USR0475,Starter,2024-06-29,Onboarding,Low,Resolved,2
+TKT00744,USR0475,Starter,2024-06-24,Bug Report,Medium,Resolved,9
+TKT00745,USR0477,Growth,2024-04-09,Bug Report,High,Resolved,3
+TKT00746,USR0477,Growth,2024-04-03,Performance,Low,Resolved,7
+TKT00747,USR0478,Starter,2024-06-24,Feature Request,Low,Open,
+TKT00748,USR0479,Starter,2024-06-29,Bug Report,Low,Escalated,
+TKT00749,USR0480,Starter,2024-05-29,Onboarding,Low,Open,
+TKT00750,USR0481,Trial,2024-03-07,Bug Report,Medium,Resolved,7
+TKT00751,USR0482,Trial,2024-06-24,Bug Report,Low,Resolved,4
+TKT00752,USR0484,Growth,2024-06-10,Billing,Low,Resolved,8
+TKT00753,USR0484,Growth,2024-06-25,Bug Report,Low,Resolved,1
+TKT00754,USR0484,Growth,2024-06-22,Feature Request,Medium,Resolved,8
+TKT00755,USR0484,Growth,2024-06-06,Billing,Low,Open,
+TKT00756,USR0487,Starter,2024-06-01,Onboarding,Low,Resolved,2
+TKT00757,USR0487,Starter,2024-05-06,Onboarding,Low,Resolved,4
+TKT00758,USR0488,Enterprise,2024-05-15,Onboarding,Low,Open,
+TKT00759,USR0488,Enterprise,2024-06-19,Bug Report,Medium,Resolved,3
+TKT00760,USR0488,Enterprise,2024-04-14,Onboarding,Low,Resolved,2
+TKT00761,USR0489,Starter,2024-06-15,Onboarding,Low,Resolved,3
+TKT00762,USR0490,Starter,2024-05-24,Billing,Low,Resolved,5
+TKT00763,USR0490,Starter,2024-04-17,Bug Report,High,Resolved,9
+TKT00764,USR0493,Growth,2024-04-17,Performance,Low,Open,
+TKT00765,USR0493,Growth,2024-03-20,Onboarding,High,Resolved,7
+TKT00766,USR0493,Growth,2024-06-06,Feature Request,Low,Resolved,8
+TKT00767,USR0493,Growth,2024-06-16,Billing,Medium,Resolved,3
+TKT00768,USR0494,Starter,2024-05-13,Bug Report,Low,Open,
+TKT00769,USR0495,Enterprise,2024-05-09,Performance,Low,Resolved,6
+TKT00770,USR0495,Enterprise,2024-04-18,Performance,High,Resolved,3
+TKT00771,USR0497,Starter,2024-06-25,Billing,Medium,Resolved,9
+TKT00772,USR0497,Starter,2024-05-11,Onboarding,Medium,Resolved,4
+TKT00773,USR0498,Enterprise,2024-04-25,Feature Request,Low,Open,
+TKT00774,USR0498,Enterprise,2024-06-24,Feature Request,Low,Resolved,6
+TKT00775,USR0498,Enterprise,2024-06-22,Onboarding,Low,Resolved,2
+TKT00776,USR0498,Enterprise,2024-04-29,Bug Report,Low,Resolved,3
+TKT00777,USR0499,Starter,2024-06-26,Feature Request,High,Resolved,7
+TKT00778,USR0500,Growth,2024-02-11,Feature Request,Medium,Resolved,1
+TKT00779,USR0500,Growth,2024-04-05,Performance,Medium,Resolved,3
+TKT00780,USR0500,Growth,2024-05-25,Feature Request,Low,Resolved,10
+TKT00781,USR0502,Growth,2024-06-08,Billing,Low,Escalated,
+TKT00782,USR0502,Growth,2024-05-30,Performance,Low,Resolved,7
+TKT00783,USR0503,Starter,2024-06-06,Performance,Low,Resolved,6
+TKT00784,USR0503,Starter,2024-06-06,Onboarding,Low,Resolved,5
+TKT00785,USR0507,Enterprise,2024-06-11,Feature Request,Low,Resolved,3
+TKT00786,USR0507,Enterprise,2024-05-31,Onboarding,Medium,Open,
+TKT00787,USR0507,Enterprise,2024-04-17,Onboarding,High,Resolved,2
+TKT00788,USR0507,Enterprise,2024-05-10,Performance,Medium,Resolved,9
+TKT00789,USR0507,Enterprise,2024-06-17,Bug Report,Low,Resolved,8
+TKT00790,USR0508,Starter,2024-04-21,Billing,Low,Resolved,8
+TKT00791,USR0509,Enterprise,2024-06-03,Billing,Medium,Resolved,3
+TKT00792,USR0509,Enterprise,2024-05-05,Billing,Medium,Resolved,4
+TKT00793,USR0510,Growth,2024-05-18,Feature Request,High,Resolved,9
+TKT00794,USR0510,Growth,2024-04-19,Onboarding,High,Resolved,2
+TKT00795,USR0510,Growth,2024-05-06,Feature Request,Low,Resolved,1
+TKT00796,USR0510,Growth,2024-06-22,Onboarding,Low,Resolved,4
+TKT00797,USR0512,Trial,2024-04-08,Performance,Low,Resolved,3
+TKT00798,USR0513,Starter,2024-02-22,Bug Report,Medium,Resolved,1
+TKT00799,USR0514,Starter,2024-06-16,Performance,Low,Resolved,4
+TKT00800,USR0514,Starter,2024-05-27,Bug Report,High,Resolved,7
+TKT00801,USR0515,Enterprise,2024-03-30,Feature Request,Low,Resolved,2
+TKT00802,USR0515,Enterprise,2024-04-04,Feature Request,Medium,Resolved,6
+TKT00803,USR0515,Enterprise,2024-03-21,Feature Request,High,Resolved,3
+TKT00804,USR0515,Enterprise,2024-03-26,Performance,Low,Resolved,3
+TKT00805,USR0515,Enterprise,2024-06-08,Bug Report,Medium,Open,
+TKT00806,USR0517,Growth,2024-06-05,Onboarding,High,Open,
+TKT00807,USR0517,Growth,2024-03-29,Performance,Medium,Resolved,7
+TKT00808,USR0517,Growth,2024-04-19,Performance,High,Resolved,8
+TKT00809,USR0519,Starter,2024-06-25,Feature Request,Low,Resolved,3
+TKT00810,USR0520,Starter,2024-05-26,Feature Request,Medium,Open,
+TKT00811,USR0521,Starter,2024-06-10,Performance,Low,Open,
+TKT00812,USR0521,Starter,2024-06-16,Billing,High,Resolved,1
+TKT00813,USR0522,Starter,2024-05-18,Feature Request,Low,Resolved,2
+TKT00814,USR0523,Starter,2024-06-02,Bug Report,Low,Escalated,
+TKT00815,USR0523,Starter,2024-02-14,Onboarding,Medium,Resolved,7
+TKT00816,USR0524,Growth,2024-04-19,Onboarding,Low,Resolved,9
+TKT00817,USR0525,Trial,2024-04-13,Onboarding,Medium,Resolved,4
+TKT00818,USR0526,Growth,2024-05-06,Bug Report,High,Open,
+TKT00819,USR0526,Growth,2024-02-14,Performance,High,Open,
+TKT00820,USR0526,Growth,2024-01-22,Onboarding,Medium,Open,
+TKT00821,USR0526,Growth,2024-01-31,Billing,High,Resolved,9
+TKT00822,USR0527,Growth,2024-05-15,Onboarding,Medium,Open,
+TKT00823,USR0527,Growth,2024-05-13,Onboarding,Medium,Resolved,8
+TKT00824,USR0527,Growth,2024-05-26,Bug Report,High,Resolved,8
+TKT00825,USR0528,Growth,2024-06-26,Bug Report,Medium,Open,
+TKT00826,USR0528,Growth,2024-06-27,Bug Report,Low,Resolved,4
+TKT00827,USR0528,Growth,2024-04-27,Performance,Medium,Resolved,10
+TKT00828,USR0528,Growth,2024-03-18,Performance,Low,Open,
+TKT00829,USR0529,Starter,2024-06-30,Onboarding,Low,Resolved,6
+TKT00830,USR0530,Enterprise,2024-06-29,Feature Request,Low,Resolved,7
+TKT00831,USR0530,Enterprise,2024-06-30,Feature Request,Medium,Resolved,3
+TKT00832,USR0531,Enterprise,2024-05-29,Feature Request,Medium,Escalated,
+TKT00833,USR0531,Enterprise,2024-05-22,Billing,Low,Escalated,
+TKT00834,USR0531,Enterprise,2024-04-22,Feature Request,High,Resolved,1
+TKT00835,USR0531,Enterprise,2024-06-28,Bug Report,Low,Open,
+TKT00836,USR0531,Enterprise,2024-06-05,Onboarding,High,Open,
+TKT00837,USR0532,Growth,2024-06-27,Feature Request,High,Resolved,8
+TKT00838,USR0532,Growth,2024-04-22,Bug Report,Low,Open,
+TKT00839,USR0532,Growth,2024-03-31,Performance,Low,Resolved,2
+TKT00840,USR0532,Growth,2024-03-30,Performance,Low,Open,
+TKT00841,USR0533,Trial,2024-06-10,Onboarding,Low,Resolved,2
+TKT00842,USR0535,Trial,2024-05-22,Bug Report,Low,Resolved,5
+TKT00843,USR0536,Starter,2024-03-20,Performance,Low,Open,
+TKT00844,USR0537,Trial,2024-04-26,Onboarding,Medium,Resolved,10
+TKT00845,USR0538,Enterprise,2024-03-24,Performance,High,Resolved,4
+TKT00846,USR0539,Growth,2024-06-19,Feature Request,Medium,Resolved,2
+TKT00847,USR0539,Growth,2024-05-14,Billing,Low,Resolved,10
+TKT00848,USR0539,Growth,2024-05-01,Billing,Medium,Open,
+TKT00849,USR0540,Starter,2024-04-22,Onboarding,Low,Escalated,
+TKT00850,USR0540,Starter,2024-06-17,Onboarding,Low,Escalated,
+TKT00851,USR0541,Trial,2024-04-19,Performance,Medium,Resolved,4
+TKT00852,USR0542,Starter,2024-06-01,Onboarding,Low,Resolved,1
+TKT00853,USR0543,Growth,2024-05-31,Onboarding,Low,Resolved,7
+TKT00854,USR0543,Growth,2024-06-08,Billing,Medium,Resolved,6
+TKT00855,USR0543,Growth,2024-06-12,Bug Report,Medium,Resolved,1
+TKT00856,USR0543,Growth,2024-06-16,Feature Request,Medium,Resolved,6
+TKT00857,USR0544,Enterprise,2024-05-20,Billing,Low,Open,
+TKT00858,USR0544,Enterprise,2024-06-16,Feature Request,Low,Resolved,8
+TKT00859,USR0544,Enterprise,2024-03-12,Billing,Medium,Open,
+TKT00860,USR0545,Starter,2024-05-29,Billing,Low,Resolved,9
+TKT00861,USR0546,Enterprise,2024-05-25,Billing,Medium,Escalated,
+TKT00862,USR0546,Enterprise,2024-05-11,Feature Request,Medium,Open,
+TKT00863,USR0546,Enterprise,2024-06-06,Performance,Low,Open,
+TKT00864,USR0549,Growth,2024-06-22,Bug Report,Low,Open,
+TKT00865,USR0549,Growth,2024-03-20,Performance,High,Escalated,
+TKT00866,USR0549,Growth,2024-03-14,Performance,Low,Resolved,1
+TKT00867,USR0549,Growth,2024-06-07,Onboarding,Low,Resolved,4
+TKT00868,USR0551,Starter,2024-05-28,Feature Request,Low,Open,
+TKT00869,USR0552,Enterprise,2024-06-02,Performance,Low,Resolved,8
+TKT00870,USR0552,Enterprise,2024-05-17,Feature Request,Low,Resolved,4
+TKT00871,USR0552,Enterprise,2024-04-20,Bug Report,Low,Resolved,10
+TKT00872,USR0552,Enterprise,2024-05-17,Performance,Low,Resolved,6
+TKT00873,USR0555,Growth,2024-06-24,Bug Report,Low,Resolved,6
+TKT00874,USR0555,Growth,2024-06-19,Onboarding,Low,Resolved,2
+TKT00875,USR0555,Growth,2024-06-18,Bug Report,High,Escalated,
+TKT00876,USR0555,Growth,2024-06-23,Performance,High,Resolved,1
+TKT00877,USR0557,Enterprise,2024-06-25,Billing,Low,Resolved,8
+TKT00878,USR0558,Enterprise,2024-05-03,Onboarding,High,Resolved,8
+TKT00879,USR0558,Enterprise,2024-04-26,Onboarding,High,Open,
+TKT00880,USR0558,Enterprise,2024-02-21,Bug Report,Low,Resolved,7
+TKT00881,USR0558,Enterprise,2024-06-11,Bug Report,Medium,Escalated,
+TKT00882,USR0558,Enterprise,2024-04-22,Performance,Low,Resolved,5
+TKT00883,USR0559,Enterprise,2024-06-26,Feature Request,Medium,Resolved,9
+TKT00884,USR0559,Enterprise,2024-06-29,Onboarding,Low,Resolved,1
+TKT00885,USR0559,Enterprise,2024-06-28,Onboarding,Low,Resolved,3
+TKT00886,USR0559,Enterprise,2024-06-28,Billing,Low,Resolved,10
+TKT00887,USR0561,Starter,2024-05-19,Feature Request,Low,Resolved,6
+TKT00888,USR0561,Starter,2024-05-15,Billing,High,Open,
+TKT00889,USR0563,Starter,2024-06-28,Performance,High,Resolved,6
+TKT00890,USR0563,Starter,2024-06-19,Onboarding,High,Resolved,4
+TKT00891,USR0564,Enterprise,2024-06-10,Billing,Low,Resolved,2
+TKT00892,USR0564,Enterprise,2024-06-05,Performance,Low,Resolved,4
+TKT00893,USR0564,Enterprise,2024-05-22,Performance,Medium,Resolved,2
+TKT00894,USR0564,Enterprise,2024-06-20,Bug Report,High,Resolved,7
+TKT00895,USR0565,Starter,2024-06-06,Onboarding,Low,Resolved,2
+TKT00896,USR0569,Starter,2024-06-23,Feature Request,Low,Open,
+TKT00897,USR0570,Starter,2024-06-18,Bug Report,Medium,Escalated,
+TKT00898,USR0570,Starter,2024-06-22,Onboarding,Medium,Escalated,
+TKT00899,USR0571,Trial,2024-02-22,Performance,Medium,Resolved,6
+TKT00900,USR0573,Growth,2024-05-18,Feature Request,High,Open,
+TKT00901,USR0573,Growth,2024-05-01,Bug Report,Low,Resolved,6
+TKT00902,USR0573,Growth,2024-05-13,Onboarding,Medium,Resolved,10
+TKT00903,USR0573,Growth,2024-05-21,Bug Report,Low,Open,
+TKT00904,USR0574,Trial,2024-06-24,Bug Report,Low,Resolved,9
+TKT00905,USR0577,Starter,2024-06-24,Feature Request,High,Resolved,1
+TKT00906,USR0578,Growth,2024-05-23,Bug Report,Low,Resolved,6
+TKT00907,USR0578,Growth,2024-04-06,Performance,High,Resolved,5
+TKT00908,USR0579,Growth,2024-03-31,Performance,Low,Resolved,6
+TKT00909,USR0579,Growth,2024-03-22,Billing,Low,Escalated,
+TKT00910,USR0581,Enterprise,2024-06-02,Billing,Medium,Resolved,9
+TKT00911,USR0581,Enterprise,2024-02-21,Performance,Medium,Resolved,5
+TKT00912,USR0581,Enterprise,2024-04-10,Feature Request,Low,Resolved,9
+TKT00913,USR0582,Enterprise,2024-03-21,Performance,Low,Resolved,6
+TKT00914,USR0582,Enterprise,2024-06-30,Performance,High,Resolved,2
+TKT00915,USR0582,Enterprise,2024-05-06,Feature Request,Medium,Escalated,
+TKT00916,USR0582,Enterprise,2024-05-19,Onboarding,High,Resolved,1
+TKT00917,USR0582,Enterprise,2024-04-13,Performance,Medium,Escalated,
+TKT00918,USR0582,Enterprise,2024-04-02,Feature Request,Medium,Resolved,2
+TKT00919,USR0583,Enterprise,2024-06-23,Feature Request,Medium,Resolved,2
+TKT00920,USR0584,Enterprise,2024-04-26,Onboarding,Low,Open,
+TKT00921,USR0584,Enterprise,2024-05-21,Onboarding,Low,Resolved,2
+TKT00922,USR0584,Enterprise,2024-06-08,Feature Request,Low,Resolved,5
+TKT00923,USR0585,Starter,2024-06-30,Billing,High,Resolved,1
+TKT00924,USR0586,Growth,2024-06-26,Feature Request,High,Resolved,3
+TKT00925,USR0586,Growth,2024-05-17,Onboarding,Medium,Resolved,7
+TKT00926,USR0586,Growth,2024-06-17,Bug Report,Low,Resolved,1
+TKT00927,USR0586,Growth,2024-03-18,Billing,Medium,Resolved,3
+TKT00928,USR0587,Starter,2024-05-10,Bug Report,Medium,Resolved,1
+TKT00929,USR0587,Starter,2024-06-21,Bug Report,Medium,Escalated,
+TKT00930,USR0589,Starter,2024-06-28,Bug Report,Medium,Escalated,
+TKT00931,USR0590,Starter,2024-06-29,Performance,High,Resolved,9
+TKT00932,USR0590,Starter,2024-06-30,Feature Request,High,Escalated,
+TKT00933,USR0591,Growth,2024-04-14,Onboarding,Medium,Resolved,6
+TKT00934,USR0591,Growth,2024-06-28,Onboarding,Medium,Resolved,5
+TKT00935,USR0593,Growth,2024-06-22,Feature Request,High,Resolved,3
+TKT00936,USR0593,Growth,2024-06-16,Onboarding,Low,Resolved,7
+TKT00937,USR0593,Growth,2024-06-09,Performance,Low,Resolved,1
+TKT00938,USR0596,Trial,2024-01-26,Billing,Low,Resolved,7
+TKT00939,USR0599,Growth,2024-03-30,Billing,Medium,Resolved,1
+TKT00940,USR0599,Growth,2024-06-21,Billing,Medium,Open,
+TKT00941,USR0599,Growth,2024-04-03,Bug Report,Low,Resolved,2
+TKT00942,USR0600,Growth,2024-06-10,Bug Report,High,Resolved,4
